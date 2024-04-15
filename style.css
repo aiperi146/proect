@@ -155,3 +155,10 @@ p{
     line-height: normal;
     margin-left: 16px;
 }
+.ikonki{
+    display: flex;
+    width: 36px;
+    height: 36px;
+    margin-left: 700px;
+    margin-right: 32px;
+}
